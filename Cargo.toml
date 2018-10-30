@@ -1,0 +1,7 @@
+[package]
+name = "valency"
+version = "0.1.0"
+authors = []
+
+[dependencies]
+amethyst = { version = "0.9.0" }
